@@ -110,7 +110,7 @@ CoCo will generate and execute all the SQL scripts, create the database, roles, 
 
 After Step 1 completes, your Snowflake account will look like this in Snowsight:
 
-![Snowsight - End of Step 1](images/end_step1.png)
+<img src="images/end_step1.png" width="600" alt="Snowsight - End of Step 1"/>
 
 ---
 
@@ -144,7 +144,7 @@ Paste the following prompt into CoCo:
 
 ### Snowsight at the end of Step 2
 
-![Snowsight - End of Step 2](images/end_step2.png)
+<img src="images/end_step2.png" width="600" alt="Snowsight - End of Step 2"/>
 
 ### Cortex Search Service
 
@@ -175,7 +175,7 @@ Paste the following prompt into CoCo:
 
 ### Snowsight at the end of Step 3
 
-![Snowsight - End of Step 3](images/end_step3.png)
+<img src="images/end_step3.png" width="600" alt="Snowsight - End of Step 3"/>
 
 ---
 
@@ -199,7 +199,7 @@ Paste the following prompt into CoCo:
 
 ### Snowsight at the end of Step 4
 
-![Snowsight - End of Step 4](images/end_step4.png)
+<img src="images/end_step4.png" width="600" alt="Snowsight - End of Step 4"/>
 
 ### Seeing the Agent in action
 
